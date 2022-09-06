@@ -11,5 +11,5 @@ TLOU
 __Uncharted__
 
 *Travel*
-s
+
 *Games*
